@@ -1,0 +1,62 @@
+* {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+body {
+  background:brown;
+}
+
+header {
+  border: 1px solid black;
+  width: 100%;
+  text-align: center;
+  background: bisque;
+}
+
+#nav-bar {
+}
+
+.nav-link {
+  margin: 10px;
+  position:relative;
+  bottom:10px;
+}
+
+#welcome {
+  background: beige;
+  padding: 5px;
+  width: 500px;
+  height: 500px;
+  margin: 20px auto;
+  border: 5px solid black;
+  text-align: center;
+  top: 100px;
+}
+
+#contact {
+  background: beige;
+  padding: 5px;
+  width: 500px;
+  height: 500px;
+  margin: 20px auto;
+  border: 5px solid black;
+  text-align: center;
+  top: 100px;
+}
+
+#name-form {
+}
+
+footer {
+  border: 1px solid black;
+  width: 100%;
+  text-align: center;
+  background: bisque;
+  position: fixed;
+  bottom: 5%;
+}
+
+.image {
+  position: relative;
+  margin: 5px;
+}
